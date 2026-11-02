@@ -1,1 +1,6 @@
 SafeSwim is a patent-oriented IoT wearable technology project that explores a smarter approach to swimming safety and performance monitoring. Designed with two key user groups in mind — children learning to swim and professional swimmers — the system aims to bring together embedded hardware, multi-sensor monitoring and wireless communication within a wearable swimming cap. By combining information related to swimmer movement, underwater activity and environmental conditions, SafeSwim aims to support early identification of potential distress situations while providing useful insights into swimming activity and performance. The project focuses on practical hardware-software integration, sensor interfacing and real-time monitoring, translating an engineering concept into a functional prototype.
+
+## Working Prototype Demonstration
+The following video showcases the working SafeSwim prototype and its hardware integration.
+
+[Watch SafeSwim – Working Prototype Demonstration](https://drive.google.com/file/d/1k2fgkLcHzFwX5oh-fMQtxCvsobsNNp80/view?usp=drive_link) - The demonstration video is provided for showcasing the prototype. Source code and detailed implementation are not publicly disclosed due to ongoing patent considerations.
